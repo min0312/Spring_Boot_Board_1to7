@@ -1,0 +1,2 @@
+get,from list getMembers(),true
+get,from list getMember(),true
